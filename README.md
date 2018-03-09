@@ -3,7 +3,7 @@ This repository contains whole of our team's works in the course "Embedded Progr
 
 
 Team members:
-**Nguyen Chinh Thuy**
-**Tran Hoang Dinh Tien**
-**Bui Thanh Tinh**
-**Dang Khanh Toan**
+* **Nguyen Chinh Thuy**
+* **Tran Hoang Dinh Tien**
+* **Bui Thanh Tinh**
+* **Dang Khanh Toan**
