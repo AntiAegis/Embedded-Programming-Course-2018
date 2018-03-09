@@ -7,7 +7,3 @@ There are three exercises:
 * Write a firmware program with the function same as the exercise2, but interrupt structure is required here.
 
 * (Option) Write an Application to communicate with TIVA-C through UART.
-
-###GPIO
-###SW
-###UART
